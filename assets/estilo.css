@@ -13,3 +13,13 @@
     margin-top: 1rem; 
     padding: 2rem
 }
+
+footer{
+    background-color: color black);
+    color: white;
+    width: 100%;
+    heinght: 2rem;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+}
